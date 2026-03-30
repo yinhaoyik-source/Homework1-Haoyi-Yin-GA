@@ -6,3 +6,11 @@ How Generative AI Can Help in AI-Assisted Coding
 Instant code explanations and learning support: Generative AI can break down unfamiliar code snippets, explain what each line does, and suggest improvements — acting like a patient tutor available 24/7 that helps beginners understand concepts in real time rather than waiting for help.
 Accelerating debugging and problem-solving: When something breaks, generative AI can analyze error messages, identify likely causes, and propose fixes. This dramatically reduces the frustrating hours spent Googling errors, letting developers stay in a creative flow and ship better code faster.
 Scaffolding and boilerplate generation: Getting started is often the hardest part. Generative AI can generate starter templates, suggest project structures, and auto-complete repetitive code patterns — freeing developers to focus their energy on the unique, creative parts of their project.
+
+## Prompt Used
+Create a markdown profile about coding interests, including a title, introduction, a paragraph about AI-assisted coding, and three bullet points on how generative AI can help.
+
+## Reflection
+The assistant did a good job generating a structured and clear introduction.
+
+I adjusted some wording slightly to better match my personal tone and interests.
