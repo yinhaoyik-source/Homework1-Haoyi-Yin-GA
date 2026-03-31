@@ -11,3 +11,6 @@ I initialized the repository, created files using an AI assistant, edited the co
 - Created assistant draft file
 - Edited final version manually
 - Updated README file
+
+## video walkthrough
+link：https://youtu.be/Ox_II5wnOjM
